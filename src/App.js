@@ -7,6 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          小さなアプリ作るぞ〜〜ワクワク
+        </p>
+        <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -17,6 +20,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          7月29日にデプロイするよ❤️
+        </p>
       </header>
     </div>
   );
